@@ -3,7 +3,7 @@ Become an Android Developer Expert / MADE (Dicoding Academy Class)
 
 Android Apps that Implement Fragments
 
-Just Learn to Code :
+## Just Learn to Code :
 - Flexible Fragment
 - Sending Data Between Fragments (with Bundle Object and Setter Getter)
 - Dialog Fragment
