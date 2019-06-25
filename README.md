@@ -1,7 +1,7 @@
 # My-Flexible-Fragment
-Become an Android Developer Expert / MADE (Dicoding Academy Class)
+Become an Android Developer Expert / MADE (Dicoding Academy Class).
 
-Android Apps that Implement Fragments
+Android Apps that Implement Fragments.
 
 ## Just Learn to Code :
 - Flexible Fragment
